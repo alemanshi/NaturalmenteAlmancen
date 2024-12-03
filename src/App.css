@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+  background-color:#ebebbc;
+}
+
+.logo {
+  width: 80px;
+  margin-left: 35px;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.foto_empresa {
+  width: 500px; 
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+
+
+
+
+
+

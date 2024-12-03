@@ -1,0 +1,39 @@
+.checkout {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .checkout h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .checkout ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .checkout ul li {
+    margin-bottom: 5px;
+  }
+  
+  .checkout button {
+    background-color: #008855; /* Color verde del NavBar */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .checkout button:hover {
+    background-color: #e97807; /* Coincide con el hover del menú */
+  }
+  
+  .checkout button:active {
+    background-color: #00573d; /* Verde más oscuro al hacer clic */
+  }
+  
