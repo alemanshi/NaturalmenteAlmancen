@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 
 # Naturalmente - Tienda en línea
 
-Este es un proyecto de una tienda en línea llamada **Naturalmente**, que ofrece productos relacionados con miel, jalea real y propóleo. El sitio está construido con **React** y utiliza **Firebase** para la gestión de productos y almacenamiento de datos. A continuación, te proporciono la documentación completa sobre cómo configurar, usar y entender el proyecto.
+Este es un proyecto de una tienda en línea llamada **Naturalmente**, que ofrece productos relacionados con miel, jalea real y propóleo. El sitio está construido con **React** y utiliza **Firebase** para la gestión de productos y almacenamiento de datos. A continuación, los detalles.
 
 ## Requisitos previos
 
-Antes de comenzar, asegúrate de tener instalados los siguientes programas:
+Antes de comenzar, tener instalados los siguientes programas:
 
 - **Node.js**: La versión recomendada de Node.js es la versión `16.x` o superior. Puedes descargarlo desde [aquí](https://nodejs.org/).
 - **npm**: El gestor de paquetes de Node.js (generalmente se instala junto con Node.js).
@@ -32,6 +32,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 ## Sitio
 
+https://almacennaturalmente.netlify.app/
 
 
 ## Estructura del proyecto
